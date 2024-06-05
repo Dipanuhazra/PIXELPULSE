@@ -1,2 +1,2 @@
 # login-signup
-this is my first github repository
+This is my first github repository that contains a login/signUp page with Scrolling effect.
